@@ -1,2 +1,3 @@
 # python_b
-python projects and details
+
+python projects with codewithharry course https://www.codewithharry.com/courses
