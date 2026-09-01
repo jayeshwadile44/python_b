@@ -1,0 +1,1 @@
+n=int(input("Enter number: ")); print("Square:", n**2, "\nCube:", n**3)
