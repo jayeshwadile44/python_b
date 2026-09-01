@@ -11,3 +11,13 @@ match a:
         print("You won a gift")
     case _:
         print("Better Luck next time")
+
+Status = 404
+
+match Status:
+    case 200:
+        print("Success")
+    case 404:
+        print("Not Found")
+    case _:
+        print("Unknown Status")
