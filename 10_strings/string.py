@@ -1,4 +1,4 @@
-#ame = "jayesh"
+ame = "jayesh"
 name = 'India'
-#ame = '''Jayu'''
+ame = '''Jayu'''
 print( name)
